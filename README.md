@@ -1,2 +1,2 @@
-### Alhorithms and data structures
+### Algorithms and data structures
 * ```pip install -r requirements.txt```
